@@ -1,3 +1,4 @@
+# Plot-file for gnuplot
 set xdata time
 set timefmt "%d.%m.%Y-%H:%M"
 set format x "%d %H:%M"
