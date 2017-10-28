@@ -4,7 +4,12 @@
 
 Bitscript is a bash-script that will take bitcoin price from Bitstamp every five minutes and writes it to end of bit.txt file.
 There is also plot file(bit.plot) for gnuplot to make graphs.
-Dependecies: bash(of course), gnuplot, screen(optional)
+
+Dependecies 
+------------
+* bash(of course)
+* gnuplot
+* screen(optional)
 
 
 Installation
