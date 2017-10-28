@@ -11,7 +11,7 @@ Installation
 -----------
 
 ```
-git clone mjturt/bitscript or something
+git clone https://github.com/mjturt/bitscript.git
 ```
 Usage
 -----------
